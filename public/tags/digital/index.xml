@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital on Ghostdogs Photography</title>
+    <link>http://ghostdogs.photography/tags/digital/</link>
+    <description>Recent content in Digital on Ghostdogs Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ghostdogs.photography/tags/digital/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coast</title>
+      <link>http://ghostdogs.photography/posts/coast/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/coast/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Infra Red</title>
+      <link>http://ghostdogs.photography/posts/ir/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/ir/</guid>
+      <description>A selection of recently taken IR photographs.</description>
+    </item>
+    
+    <item>
+      <title>City</title>
+      <link>http://ghostdogs.photography/posts/city/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/city/</guid>
+      <description>And the reality (some photos taken by Tam) -</description>
+    </item>
+    
+  </channel>
+</rss>

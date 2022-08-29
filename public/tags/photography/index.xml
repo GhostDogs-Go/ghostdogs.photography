@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on Ghostdogs Photography</title>
+    <link>http://ghostdogs.photography/tags/photography/</link>
+    <description>Recent content in Photography on Ghostdogs Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ghostdogs.photography/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coast</title>
+      <link>http://ghostdogs.photography/posts/coast/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/coast/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Infra Red</title>
+      <link>http://ghostdogs.photography/posts/ir/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/ir/</guid>
+      <description>A selection of recently taken IR photographs.</description>
+    </item>
+    
+    <item>
+      <title>Pure Film</title>
+      <link>http://ghostdogs.photography/posts/pure-film/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/pure-film/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

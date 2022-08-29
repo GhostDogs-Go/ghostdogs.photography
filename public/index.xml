@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghostdogs Photography</title>
+    <link>http://ghostdogs.photography/</link>
+    <description>Recent content on Ghostdogs Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ghostdogs.photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coast</title>
+      <link>http://ghostdogs.photography/posts/coast/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/coast/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Infra Red</title>
+      <link>http://ghostdogs.photography/posts/ir/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/ir/</guid>
+      <description>A selection of recently taken IR photographs.</description>
+    </item>
+    
+    <item>
+      <title>Pure Film</title>
+      <link>http://ghostdogs.photography/posts/pure-film/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/pure-film/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>City</title>
+      <link>http://ghostdogs.photography/posts/city/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/posts/city/</guid>
+      <description>And the reality (some photos taken by Tam) -</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://ghostdogs.photography/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/about/</guid>
+      <description>A few days after Christmas 2017 our world collapsed. Bev, my partner and my son’s mummy died very suddenly. Tam saw his mammy go from holding his hand and cuddling him to me performing CPR and the next day seeing her for the last time. This blog is a bit of our journey, struggles and successes. I hope that if you invest your time in reading it that you get something from it and hopefully in some way it helps you.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://ghostdogs.photography/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ghostdogs.photography/contact/</guid>
+      <description>If you feel like talking or just giving us some feedback, fill out the form and we will get back to you.</description>
+    </item>
+    
+  </channel>
+</rss>
